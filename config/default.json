@@ -1,8 +1,0 @@
-{
-    "dbconfig":{
-        "dbURI": "mongodb+srv://m_ahmad:Grow416379@businessapp-ibr8u.mongodb.net/test?retryWrites=true&w=majority"
-    },
-    "jwtPrivateKey":{
-        "jwtKey" : "businessapp_jwtPrivateKey"
-    }
-}
